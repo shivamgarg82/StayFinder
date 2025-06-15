@@ -1,5 +1,3 @@
-# StayFinder - Airbnb Clone (Internship Project)
-
 # 🏠 StayFinder - Airbnb Clone (MERN Stack)
 
 ![StayFinder Screenshot](/public/screenshot.jpg) *Replace with actual screenshot*
