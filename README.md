@@ -12,7 +12,7 @@ A full-stack property booking platform with React, Node.js, Express, and MongoDB
 - **Host Dashboard** for managing listings
 - **Responsive Design** (Mobile-friendly)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 | Layer        | Technology           |
 |--------------|----------------------|
